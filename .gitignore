@@ -1,0 +1,14 @@
+__pycache__/
+api/__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environments
+images/
+venv/
+env/
+.venv/
+*.log
+mlruns/
+notebooks/mlruns/
